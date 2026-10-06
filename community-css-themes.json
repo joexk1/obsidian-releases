@@ -5804,5 +5804,12 @@
     "repo": "raccoon-overlord-dev/obsidian-pastello-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Moon City",
+    "author": "joexk1",
+    "repo": "joexk1/obsidian-moon-city",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
